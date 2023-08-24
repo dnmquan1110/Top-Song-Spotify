@@ -5,12 +5,13 @@ The data using in this kernel is information of top songs on spotify from 2017 t
 Link of data is below: https://drive.google.com/drive/folders/1HJhBIcVozMvS03Ec7H_Zz0gUDbNtQpsb?usp=sharing
 
 ## 2. Tasks in this kernel
-In this kernel, I explore the data, analyst information,  I visualized some inforamtions below:
+In this kernel, I explore the data, analyst information. Some inforamtions that I visualized is at below:
 - Check songs top 1 in specific day
 - Find the track name that has the most streams
 - Find all track names that top 1 in each day.
 - Visualize artists who have more 1 top song
 - Visualize streams of all top songs per day.
+
 ...
 
  Moreover, I found who artists have the most songs on top and learn about what features make these song have high streams and on top of spotify's leaderboard. You can view my kernel to know more how I do these tasks.
